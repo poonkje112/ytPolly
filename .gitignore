@@ -112,3 +112,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data.json
+*.mp3
+*.ttf
+*.png
+*.jpeg
+*.mp4
